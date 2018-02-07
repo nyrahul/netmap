@@ -1,0 +1,9 @@
+service lightdm stop
+service NetworkManager stop
+service apache2 stop
+service cron stop
+service cups stop
+service gpm stop
+service colord stop
+service upower stop
+service thermald stop
